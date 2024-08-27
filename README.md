@@ -1,2 +1,3 @@
-# primeiro-projeto
-meu projeto learning git
+# Sobre meu primeiro projeto no GitHub.
+
+Subindo uma pasta com alguns arquivos txt da minha maquina.
